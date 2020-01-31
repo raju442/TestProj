@@ -10,7 +10,7 @@ public class TestProj {
     System.out.println("Rajendra");
     System.out.println("Dinesh Prince");
      System.out.println("abrar");
-     System.out.println("PrabasStar  harish");
+     System.out.println("PrabasSta harish");
  
 }
 }

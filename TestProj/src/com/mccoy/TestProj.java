@@ -8,9 +8,9 @@ public class TestProj {
     System.out.println("Hiiii");
     System.out.println("Harish");
     System.out.println("Rajendra");
-    System.out.println("Dinesh");
+    System.out.println("Dinesh Raja");
      System.out.println("abrar");
-     System.out.println("Star harish");
+     System.out.println("PrabasStar  harish");
  
 }
 }

@@ -1,6 +1,7 @@
 package com.mccoy;
 
 public class TestProj {
+	public static void main(String args[]) {
 
     System.out.println("Hello");
     System.out.println("Hiiii");
@@ -9,4 +10,5 @@ public class TestProj {
     System.out.println("Dinesh");
      System.out.println("abrar");
      System.out.println("Editd by harish");
+}
 }
